@@ -144,3 +144,7 @@ function writeYourGenres() {
 writeYourGenres();
 
 console.log(personalMovieDB);
+let obj = {}; 
+
+
+
